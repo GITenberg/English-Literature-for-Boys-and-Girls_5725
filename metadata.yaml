@@ -1,5 +1,5 @@
 _repo: English-Literature-for-Boys-and-Girls_5725
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PR'
 - !lcsh 'English literature -- History and criticism'
+- GITenberg
 title: English Literature for Boys and Girls
 url: http://www.gutenberg.org/ebooks/5725
